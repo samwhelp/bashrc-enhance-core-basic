@@ -14,7 +14,7 @@
 clone to [~/.config/bashrc-enhance](.)
 
 ``` sh
-git clone https://github.com/samwhelp/bashrc-enhance-core-basic ~/.config/bashrc-enhance
+git clone https://github.com/samwhelp/bashrc-enhance-core-basic.git ~/.config/bashrc-enhance
 ```
 
 
