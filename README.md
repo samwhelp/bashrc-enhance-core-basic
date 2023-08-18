@@ -2,6 +2,32 @@
 
 # bashrc-enhance-core-basic
 
+
+## Install
+
+clone to [~/.config/bashrc-enhance](.)
+
+``` sh
+git clone https://github.com/samwhelp/bashrc-enhance-core-basic ~/.config/bashrc-enhance
+```
+
+add to [~/.bashrc](helper/share/sample/bashrc/basic/.bashrc)
+
+``` sh
+
+##
+## Load: ~/.config/bashrc-enhance/port/main.sh
+##
+
+__BASHRC_ENHANCE_DIR_PATH__="${HOME}/.config/bashrc-enhance"
+
+[ -f "${__BASHRC_ENHANCE_DIR_PATH__}/asset/port/main.sh" ] && . "${__BASHRC_ENHANCE_DIR_PATH__}/asset/port/main.sh"
+
+```
+
+
+## Link
+
 | Link | GitHub |
 | ---- | ------ |
 | [bashrc-generator](https://samwhelp.github.io/bashrc-generator/) | [GitHub](https://github.com/samwhelp/bashrc-generator) |
