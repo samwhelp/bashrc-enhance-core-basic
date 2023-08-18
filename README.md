@@ -5,11 +5,17 @@
 
 ## Install
 
+
+### clone
+
 clone to [~/.config/bashrc-enhance](.)
 
 ``` sh
 git clone https://github.com/samwhelp/bashrc-enhance-core-basic ~/.config/bashrc-enhance
 ```
+
+
+### edit ~/.bashrc
 
 add to [~/.bashrc](helper/share/sample/bashrc/basic/.bashrc)
 
