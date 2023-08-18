@@ -5,6 +5,9 @@
 
 ## Install
 
+* [clone](#clone)
+* [edit ~/.bashrc](##edit-bashrc)
+
 
 ### clone
 
